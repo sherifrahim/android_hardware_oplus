@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package co.aospa.settings.device
+package org.lineageos.settings.device
 
 import android.app.NotificationManager
 import android.content.BroadcastReceiver
